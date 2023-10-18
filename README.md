@@ -5,7 +5,7 @@ template wp
 [https://github.com/12ants/aa/raw/main/aaaa.zip ](https://github.com/12ants/aa/raw/main/aaaa.zip)
 
 
-[https://github.com/12ants/aa/raw/main/ii.php ](https://github.com/12ants/aa/raw/main/ii.php)
+[https://github.com/12ants/aa/raw/main/index.php ](https://github.com/12ants/aa/raw/main/index.php)
 
 =====================
 
